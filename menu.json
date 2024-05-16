@@ -1,0 +1,46 @@
+[{
+    "name": "网站管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/config/index.html",
+    "list": []
+},{
+    "name": "栏目管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/nav/index.html",
+    "list": []
+},{
+    "name": "商品管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/product/index.html",
+    "list": []
+},{
+    "name": "维修管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/repair/index.html",
+    "list": []
+},{
+    "name": "用户管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/user/index.html",
+    "list": []
+},{
+    "name": "订单管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/order/index.html",
+    "list": []
+},{
+    "name": "文章管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/article/index.html",
+    "list": []
+},{
+    "name": "广告管理",
+    "icon": "&#xe620;",
+    "url": "/admin.php/slide/index.html",
+    "list": []
+},{
+    "name": "退出登录",
+    "icon": "&#xe620;",
+    "url": "/admin.php/login/logout",
+    "list": []
+}]
